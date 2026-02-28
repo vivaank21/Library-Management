@@ -320,6 +320,9 @@ Developed using:
 - QRCode (QR Generation)
 - Pillow (Image Processing)
 
+
+### There is a file called password.py it's converting password into hash password...
+
 ---
 
 **Note**: This is a complete, production-ready library management system with professional design and comprehensive features. Update the database credentials before running the application.
