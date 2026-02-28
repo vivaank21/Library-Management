@@ -91,7 +91,7 @@ A professional GUI-based Library Management System built with Python, Tkinter, a
 ### Backup Screen
 <img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/d7822ee7-9883-4c77-879f-404aac6020be" />
 
-### Student Scanner Board Screen 
+### Student QRCode Board Screen 
 <img width="1247" height="903" alt="image" src="https://github.com/user-attachments/assets/5e036498-3ddc-4454-8e4f-7aab23d9f97f" />
 
 
