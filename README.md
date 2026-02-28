@@ -61,6 +61,41 @@ A professional GUI-based Library Management System built with Python, Tkinter, a
 - **Warning**: #F39C12 (Orange)
 - **Background**: #ECF0F1 (Light Gray)
 
+
+##  Screenshots
+
+### Login Screen
+<img width="1252" height="788" alt="image" src="https://github.com/user-attachments/assets/02ff1113-5119-45f2-9935-3ffdae2f2b65" />
+
+### Librarian Dashboard Screen 
+<img width="1916" height="914" alt="image" src="https://github.com/user-attachments/assets/538e91bd-0339-46db-8dd1-cd68b7b3a55d" />
+
+### Books Management Screen
+<img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/ea5ae11d-259b-471e-ba5e-595ede1edce9" />
+
+### Students Management  Screen
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/0709599b-d0da-458c-8d51-a2aa7e447cef" />
+
+### Issue Book Screen
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/db66a5dc-9ec3-4762-a563-376ce2ad4607" />
+
+### Return Book Screen
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/20225542-65aa-45aa-8a70-77092397ae56" />
+
+### Overdue Screen
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/e8040887-e2b6-4568-9df5-09bf8849998f" />
+
+### Reports and Statistics Screen 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/7fe07826-301e-44ad-9da4-f1ee6633b619" />
+
+### Backup Screen
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/d7822ee7-9883-4c77-879f-404aac6020be" />
+
+### Student Scanner Board Screen 
+<img width="1247" height="903" alt="image" src="https://github.com/user-attachments/assets/5e036498-3ddc-4454-8e4f-7aab23d9f97f" />
+
+
+
 ## Requirements
 
 ### Python Packages
